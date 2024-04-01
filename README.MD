@@ -28,9 +28,37 @@ This project was developed with the following technologies:
 -  [JavaScrip](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
-## :information_source: How To Use
+## :information_source: Run Locally
 
-To clone and run this application, you'll need [Git](https://git-scm.com)
+Clone the project
+
+```bash
+  git clone https://github.com/JoshuelNobre/clinica-smile.git
+```
+
+Go to the project directory
+
+```bash
+  cd clinica-smile
+```
+
+Build
+
+```bash
+  docker build -t clinica-smile .
+```
+
+Run
+
+```bash
+  docker run -d -p 8080:80 clinica-smile
+```
+
+To view page access
+
+```bash
+  localhost:8080 
+```
 
 ## :information_source: Demo
 
