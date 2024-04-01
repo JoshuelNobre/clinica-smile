@@ -61,11 +61,8 @@ To view page access
   localhost:8080 
 ```
 
-## :information_source: Demo
-
-To access this application, click [here](https://ccastro01.github.io/clinica-smile)
+## :information_source: 
 
 
-
-Made with ♥ by Christian Castro :wave: [Get in touch!](https://www.linkedin.com/in/chrisdcdev/)
+Made with ♥ by [Christian Castro](https://github.com/chrisdcdev) :wave:
 
